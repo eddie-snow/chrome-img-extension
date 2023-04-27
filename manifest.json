@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "change all img",
+    "description": "change all img extension",
+    "version": "1.0",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
